@@ -1,3 +1,6 @@
 [submodule "OpenNI2"]
 	path = OpenNI2
 	url = ../OpenNI/OpenNI2.git
+[submodule "sub"]
+	path = sub
+	url = git@github.com:eddiecohen/sub.git
